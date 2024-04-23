@@ -1,5 +1,5 @@
 
-(footprint DIO_SS34 (layer F.Cu) (tedit 65D9E8D5)
+(footprint DIO_SS34 (layer F.Cu) (tedit 660CC479)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at -1.65 -4.3375 0) (layer F.SilkS)

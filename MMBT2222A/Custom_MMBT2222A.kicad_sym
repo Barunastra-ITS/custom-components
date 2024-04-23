@@ -2,15 +2,15 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "SS34"
+	(symbol "MMBT2222A"
 		(pin_names
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "D"
-			(at -5.08 2.54 0)
+		(property "Reference" "Q"
+			(at -10.16 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18,8 +18,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SS34"
-			(at -5.08 -3.81 0)
+		(property "Value" "MMBT2222A"
+			(at -10.16 -7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Custom_Components:DIO_SS34"
+		(property "Footprint" "Custom_Components:SOT95P240X120-3N"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Taiwan Semiconductor"
+		(property "MF" "ON Semiconductor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65,7 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "2.65mm"
+		(property "SNAPEDA_PACKAGE_ID" "124619"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75,7 +75,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "DO-214AB-2 Taiwan Semiconductor"
+		(property "Package" "SOT-23 Fairchild Semiconductor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -95,7 +95,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/MMBT2222A/Onsemi/view-part/?ref=eda"
 			(at 0 0 0)
 			(effects
 				(font
@@ -105,7 +105,7 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "STANDARD" "IPC 7351B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -115,7 +115,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "S2311"
+		(property "PARTREV" "2024-03-11"
 			(at 0 0 0)
 			(effects
 				(font
@@ -125,7 +125,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MMBT2222A/Onsemi/view-part/?ref=snap"
 			(at 0 0 0)
 			(effects
 				(font
@@ -135,7 +135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "SS34"
+		(property "MP" "MMBT2222A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -145,7 +145,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "\n3A, 40V, Schottky Rectifier\n"
+		(property "Description_1" "\nBipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 225 mW Surface Mount SOT-23-3 (TO-236)\n"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Diotec"
 			(at 0 0 0)
 			(effects
 				(font
@@ -165,7 +175,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Taiwan Semiconductor"
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -175,13 +185,24 @@
 				(hide yes)
 			)
 		)
-		(symbol "SS34_0_0"
+		(symbol "MMBT2222A_0_0"
+			(rectangle
+				(start -0.254 -2.54)
+				(end 0.508 2.54)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
 			(polyline
 				(pts
-					(xy -2.54 0) (xy -1.27 0)
+					(xy 1.54 -2.04) (xy 0.308 -1.424)
 				)
 				(stroke
-					(width 0.254)
+					(width 0.1524)
 					(type default)
 				)
 				(fill
@@ -190,10 +211,10 @@
 			)
 			(polyline
 				(pts
-					(xy -1.27 -1.27) (xy 1.27 0)
+					(xy 2.54 2.54) (xy 0.508 1.524)
 				)
 				(stroke
-					(width 0.254)
+					(width 0.1524)
 					(type default)
 				)
 				(fill
@@ -202,126 +223,18 @@
 			)
 			(polyline
 				(pts
-					(xy -1.27 0) (xy -1.27 -1.27)
+					(xy 1.27 -2.54) (xy 1.778 -1.524) (xy 2.54 -2.54) (xy 1.27 -2.54)
 				)
 				(stroke
-					(width 0.254)
+					(width 0.1524)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -1.27 1.27) (xy -1.27 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.635 -1.016) (xy 0.635 -1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.27 -1.27) (xy 0.635 -1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.27 0) (xy -1.27 1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.27 0) (xy 1.27 -1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.27 1.27) (xy 1.27 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.905 1.27) (xy 1.27 1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.905 1.27) (xy 1.905 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 1.27 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type outline)
 				)
 			)
 			(pin passive line
-				(at -5.08 0 0)
+				(at -2.54 0 0)
 				(length 2.54)
 				(name "~"
 					(effects
@@ -330,7 +243,7 @@
 						)
 					)
 				)
-				(number "A"
+				(number "1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -339,7 +252,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 2.54 -5.08 90)
 				(length 2.54)
 				(name "~"
 					(effects
@@ -348,7 +261,25 @@
 						)
 					)
 				)
-				(number "C"
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 5.08 270)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
 					(effects
 						(font
 							(size 1.016 1.016)
