@@ -1,0 +1,10 @@
+
+*.kicad_pro linguist-detectable
+*.kicad_sch linguist-detectable
+*.kicad_pcb linguist-detectable
+*.kicad_mod linguist-detectable
+*.kicad_prl linguist-detectable
+*.kicad_sym linguist-detectable
+*.kicad_wks linguist-detectable
+*.lib linguist-detectable
+*.sch linguist-detectable
