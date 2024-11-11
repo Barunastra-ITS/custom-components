@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XL4016_E1
+D 12A 180KHz 40V Buck DC to DC Converter
+K
+F http://www.xlsemi.com/datasheet/XL4016%20datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

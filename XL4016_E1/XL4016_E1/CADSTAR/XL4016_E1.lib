@@ -1,0 +1,18 @@
+.XL4016_E1 :1 ;12A 180KHz 40V Buck DC to DC Converter
+XL4016E1
+*STM IC
+*NGS
+*PLB 1="GND" 2="FB" 3="SW" 4="VC" 5="VIN"
+*MXP 5
+*DFN XL4016_E1
+~!Manufacturer_Name (XLSEMI)
+~!Manufacturer_Part_Number (XL4016 E1)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.xlsemi.com/datasheet/XL4016%20datasheet.pdf)
+~!Height (15.49mm)
+~!3D_Model (XL4016_E1)
+XL4016_E1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

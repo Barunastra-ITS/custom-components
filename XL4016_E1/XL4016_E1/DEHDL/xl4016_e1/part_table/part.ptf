@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XL4016_E1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "XLSEMI", "XL4016 E1" (!) = "", "XL4016E1", "Other", "", "", "", "", "12A 180KHz 40V Buck DC to DC Converter", "http://www.xlsemi.com/datasheet/XL4016%20datasheet.pdf", "15.49 mm"
+END_PART
+
+END.

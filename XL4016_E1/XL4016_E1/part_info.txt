@@ -1,0 +1,9 @@
+Manufacturer=XLSEMI
+PartNumber=XL4016 E1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=5
+Version=1.2
+Released=2021-06-03 09:01:55
+Downloaded=2024-11-08 06:52:03
+3D=Y

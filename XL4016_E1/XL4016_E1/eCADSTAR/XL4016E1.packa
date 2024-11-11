@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "XL4016_E1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-03-09:01:55)
+    (mountForm default
+        (footprintRef "XL4016E1")
+        (spec "System")
+    )
+)
