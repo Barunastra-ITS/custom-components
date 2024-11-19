@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Custom_Components:NCE80H12D"
+		(property "Footprint" "IPB60R165CP:DPAK254P1524X457-3N"
 			(at 0 0 0)
 			(effects
 				(font
