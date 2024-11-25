@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FDB035N10A:D2_PACK"
+		(property "Footprint" "Custom_Components:HY4008"
 			(at 0 0 0)
 			(effects
 				(font

@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_Components:Module_LORA-SX1278"
 			(at 0 0 0)
 			(effects
 				(font
