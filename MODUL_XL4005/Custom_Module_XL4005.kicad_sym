@@ -61,6 +61,17 @@
 					(type none)
 				)
 			)
+			(rectangle
+				(start -2.54 16.51)
+				(end -2.54 16.51)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 		)
 		(symbol "Modul_XL4005_1_1"
 			(text "Module"
@@ -136,7 +147,7 @@
 			(pin output line
 				(at 16.51 -2.54 180)
 				(length 2.54)
-				(name "OUT+"
+				(name "OUT-"
 					(effects
 						(font
 							(size 1.27 1.27)
