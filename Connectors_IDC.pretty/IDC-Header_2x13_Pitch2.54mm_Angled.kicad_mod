@@ -863,7 +863,7 @@
 		(remove_unused_layers no)
 		(uuid "66efa2cd-7318-4bec-b5ec-121fd45efec5")
 	)
-	(model "C:/DATA-D/Library_Fusion/3D-PIN IDC HEADER/DS1013-26R (IDC-26R CONNFLY).stp"
+	(model "C:/DATA-D/Library_KiCAD V.8/IDC-BOX/ANGELD/DS1013-26R (IDC-26R CONNFLY).stp"
 		(offset
 			(xyz 0 0 0)
 		)
