@@ -51,17 +51,6 @@
 		)
 		(symbol "Modul_XL4005_0_1"
 			(rectangle
-				(start -5.08 3.81)
-				(end 13.97 -5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(rectangle
 				(start -2.54 16.51)
 				(end -2.54 16.51)
 				(stroke
@@ -74,6 +63,17 @@
 			)
 		)
 		(symbol "Modul_XL4005_1_1"
+			(rectangle
+				(start -5.08 3.81)
+				(end 13.97 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(text "Module"
 				(at 3.556 -0.508 0)
 				(effects
